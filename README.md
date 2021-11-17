@@ -1,2 +1,3 @@
 # rushuikit
-Created with CodeSandbox
+
+Website for Rush UI Kit, a low-fidelity prototyping kit for Figma
